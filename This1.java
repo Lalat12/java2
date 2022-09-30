@@ -12,7 +12,8 @@ class This1
         System.out.println(a);
 
     }
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    12xxs1111111111 d1{
         This1 r=new This1();
         
     }
